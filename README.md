@@ -1,16 +1,27 @@
-## Hi there 👋
+Ricardo Jason Mendes
+Data Analyst transitioning from 5+ years in hospitality and retail into analytics — targeting junior analyst roles in retail, commercial, and business operations.
+I've spent the last few months building the full junior analytics toolkit from scratch through structured self-directed study, hands-on projects, and real datasets. My background in fast-paced retail and hospitality operations gives me a ground-level understanding of the business problems I'm now solving with data.
 
-<!--
-**RicardoJM02/RicardoJM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portfolio Projects
+🛒 Rossmann Retail Promotion Analysis
+Python and SQL pipeline evaluating promotional effectiveness across Rossmann store types. Found that promotions drive 39% revenue uplift but compress profit margins - a signal for pricing strategy review.
+Tools: Python, Pandas, SQLite, Tableau
+View Repository
 
-Here are some ideas to get you started:
+👥 Customer RFM Segmentation
+End-to-end Python pipeline segmenting customers from a UK online retailer by Recency, Frequency, and Monetary value. Identified £2.5M in at-risk revenue across 1,700+ customers.
+Tools: Python, Pandas, Tableau
+View Repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 HR Attrition Analysis
+Power BI dashboard analysing employee attrition across departments, salary bands, and job roles using DAX measures and a star schema data model.
+Tools: Power BI, DAX
+View Repository
+
+Certifications
+
+Google Data Analytics Professional Certificate — Coursera (Apr 2026)
+
+
+Open to junior data analyst, reporting analyst, and BI analyst roles in the UK.
+Connect with me on LinkedIn
