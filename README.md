@@ -2,8 +2,8 @@
 ## Data Analyst transitioning from 5+ years in hospitality and retail into analytics — targeting junior analyst roles in retail, commercial, and business operations.
 I've spent the last few months building the full junior analytics toolkit from scratch through structured self-directed study, hands-on projects, and real datasets. My background in fast-paced retail and hospitality operations gives me a ground-level understanding of the business problems I'm now solving with data.
 
-## Portfolio Projects
-🛒 Rossmann Retail Promotion Analysis
+# Portfolio Projects
+## 🛒 Rossmann Retail Promotion Analysis
 Python and SQL pipeline evaluating promotional effectiveness across Rossmann store types. Found that promotions drive 39% revenue uplift but compress profit margins - a signal for pricing strategy review.
 Tools: Python, Pandas, SQLite, Tableau
 View Repository
