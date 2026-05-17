@@ -6,17 +6,17 @@ I've spent the last few months building the full junior analytics toolkit from s
 ## 🛒 Rossmann Retail Promotion Analysis
 Python and SQL pipeline evaluating promotional effectiveness across Rossmann store types. Found that promotions drive 39% revenue uplift but compress profit margins - a signal for pricing strategy review.
 Tools: Python, Pandas, SQLite, Tableau
-View Repository
+[View Repository](https://github.com/RicardoJM02/rossmann-promotion-analysis)
 
 ## 👥 Customer RFM Segmentation
 End-to-end Python pipeline segmenting customers from a UK online retailer by Recency, Frequency, and Monetary value. Identified £2.5M in at-risk revenue across 1,700+ customers.
 Tools: Python, Pandas, Tableau
-View Repository
+[View Repository](https://github.com/RicardoJM02/rfm-customer-segmentation)
 
 ## 📊 HR Attrition Analysis
 Power BI dashboard analysing employee attrition across departments, salary bands, and job roles using DAX measures and a star schema data model.
 Tools: Power BI, DAX
-View Repository
+[View Repository](https://github.com/RicardoJM02/hr-attrition-analysis)
 
 ## Certifications
 
